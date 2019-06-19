@@ -4,7 +4,8 @@
 
 ## 总体架构
 
-Hadoop-->MapReduce![](https://github.com/writesky/a-new-start/blob/master/%E6%8D%95%E8%8E%B7.PNG?raw=true)          
+Hadoop-->MapReduce
+![](https://github.com/writesky/picture/blob/master/%E6%8D%95%E8%8E%B710.PNG?raw=true)          
 
 ##### Storm                                           
 
